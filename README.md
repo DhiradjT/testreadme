@@ -1,9 +1,9 @@
 <h1 align="center">👨‍💻 Selenium Tests</h1>
 <h3 align="center">🌱 Order4Sure page => testnsg.order4sure.nl</h3>
 
-<h3 align="left">⚡HUB BASE B.V. | GEAUTOMATISEERDE TESTS | DOCUMENTATIE:⚡ </h3>
+<h3 align="center">⚡HUB BASE B.V. | GEAUTOMATISEERDE TESTS | DOCUMENTATIE:⚡ </h3>
 <p align="left">
-  * Wat kan je met Selenium: 
+💠 Wat kan je met Selenium: 
 In een notendop wat je met Selenium kunt doen. Met Selenium kun je herhaalbare tests en
 efficiënte testscripts maken, waardoor de kwaliteit van webapplicaties aanzienlijk wordt
 verbeterd
@@ -15,13 +15,13 @@ Java, Python, C# en nog veel meer. Ik heb gekozen voor het gebruik van Python, o
 nooit eerder met Python had gewerkt en wilde mij graag hier meer in verdiepen. 
 
 💠 Uiteindelijke Overweging tot Selenium?
-# Kostenposten;
+- Kostenposten;
 Selenium webdriver is zoals ik al eerder zei; een open source framework, dit
 houdt in dat het volledig gratis is om te testen met het selenium webdriver software.
 # Simpliciteit; 
 Met Selenium kan je gemakkelijk een test maken. Opzoeken van vragen kan
 online en je maakt gebruik van codeertalen die vaak al bekend zijn.
-# Breed Scala Browsers;
+- Breed Scala Browsers;
 Selenium ondersteund een root aantal browsers, zoals; Chrome,
 FireFox , Edge en voor de Mac gebruikers Safari. Daarom was dit ook al snel een overweging
 
