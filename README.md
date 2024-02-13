@@ -33,7 +33,7 @@ FireFox , Edge en voor de Mac gebruikers Safari. Daarom was dit ook al snel een 
 5. Voer deze line uit: "python testnaam.py"
 6. Hoera!! De test is gestart.
 
-💠 Zelf een test maken? 
+💠 Zelf een test maken? <br>
 Wil jij nu zelf een test in elkaar zetten, maar heb je geen idee hoe je dit moet doen? 
 Bekijk dan het stappenplan via de onderstaade link: 
 https://drive.google.com/file/d/1NvL2i-VbJlRIyDMaQEtIcEgZk3J-n_qp/view?usp=drive_link
