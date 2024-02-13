@@ -1,7 +1,6 @@
-<h1 align="center">👨‍💻 Selenium Tests</h1>
+<h1 align="center">⚡HUB BASE B.V. | GEAUTOMATISEERDE TESTS | DOCUMENTATIE:⚡ </h1>
 <h3 align="center">🌱 Order4Sure page => testnsg.order4sure.nl</h3>
 
-<h3 align="center">⚡HUB BASE B.V. | GEAUTOMATISEERDE TESTS | DOCUMENTATIE:⚡ </h3>
 <p align="left">
 💠 Wat kan je met Selenium: <br>
 In een notendop wat je met Selenium kunt doen. Met Selenium kun je herhaalbare tests en
