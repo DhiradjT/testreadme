@@ -18,7 +18,7 @@ nooit eerder met Python had gewerkt en wilde mij graag hier meer in verdiepen.
 - Kostenposten;
 Selenium webdriver is zoals ik al eerder zei; een open source framework, dit
 houdt in dat het volledig gratis is om te testen met het selenium webdriver software.
-# Simpliciteit; 
+- Simpliciteit; 
 Met Selenium kan je gemakkelijk een test maken. Opzoeken van vragen kan
 online en je maakt gebruik van codeertalen die vaak al bekend zijn.
 - Breed Scala Browsers;
@@ -36,7 +36,7 @@ FireFox , Edge en voor de Mac gebruikers Safari. Daarom was dit ook al snel een 
 💠 Zelf een test maken? 
 Wil jij nu zelf een test in elkaar zetten, maar heb je geen idee hoe je dit moet doen? 
 Bekijk dan het stappenplan via de onderstaade link: 
-# https://drive.google.com/file/d/1NvL2i-VbJlRIyDMaQEtIcEgZk3J-n_qp/view?usp=drive_link
+https://drive.google.com/file/d/1NvL2i-VbJlRIyDMaQEtIcEgZk3J-n_qp/view?usp=drive_link
 
 💠 <b>Cache schoonmaken:</b> 
 1. Open the VS Command Pallette (voor Windows gebruikers Ctrl+Shift+P)
