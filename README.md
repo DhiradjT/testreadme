@@ -3,12 +3,12 @@
 
 <h3 align="center">⚡HUB BASE B.V. | GEAUTOMATISEERDE TESTS | DOCUMENTATIE:⚡ </h3>
 <p align="left">
-💠 Wat kan je met Selenium: 
+💠 Wat kan je met Selenium: <br>
 In een notendop wat je met Selenium kunt doen. Met Selenium kun je herhaalbare tests en
 efficiënte testscripts maken, waardoor de kwaliteit van webapplicaties aanzienlijk wordt
 verbeterd
 
-💠 Wat is Selenium?
+💠 Wat is Selenium? <br>
 Selenium is een open source framework dat is ontworpen om webapplicaties te testen in
 verschillende browsers en platforms. Het ondersteund een grote aantal programmeertalen, zoals
 Java, Python, C# en nog veel meer. Ik heb gekozen voor het gebruik van Python, omdat ik nog
