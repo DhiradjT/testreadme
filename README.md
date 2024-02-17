@@ -16,7 +16,7 @@
 💠<b>Cache schoonmaken:</b> 
 1. Open the VS Command Pallette (voor Windows gebruikers Ctrl+Shift+P)
 2. Kies of type "Python: Select Interpreter"
-3. Klik op clear cache and herlaad scherm
+3. Klik op clear cache en refresh scherm
 
 <br>
 
