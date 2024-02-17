@@ -33,13 +33,13 @@ In een notendop wat je met Selenium kunt doen. Met Selenium kun je herhaalbare t
 efficiënte testscripts maken, waardoor de kwaliteit van webapplicaties aanzienlijk wordt
 verbeterd
 
-💠<b>Wat is Selenium?</b> <br>
+💠<b>Wat is Selenium:</b> <br>
 Selenium is een open source framework dat is ontworpen om webapplicaties te testen in
 verschillende browsers en platforms. Het ondersteund een grote aantal programmeertalen, zoals
 Java, Python, C# en nog veel meer. Ik heb gekozen voor het gebruik van Python, omdat ik nog
 nooit eerder met Python had gewerkt en wilde mij graag hier meer in verdiepen. 
 
-💠<b>Uiteindelijke Overweging tot Selenium?</b>
+💠<b>Uiteindelijke Overweging tot Selenium:</b>
 - Kostenposten;
 Selenium webdriver is zoals ik al eerder zei; een open source framework, dit
 houdt in dat het volledig gratis is om te testen met het selenium webdriver software.
@@ -49,8 +49,6 @@ online en je maakt gebruik van codeertalen die vaak al bekend zijn.
 - Breed Scala Browsers;
 Selenium ondersteund een root aantal browsers, zoals; Chrome,
 FireFox , Edge en voor de Mac gebruikers Safari. Daarom was dit ook al snel een overweging
-
-
 </p>
 
 <h3 align="left">Tools & Libraries:</h3>
