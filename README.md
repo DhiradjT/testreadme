@@ -3,7 +3,7 @@
 
 <p align="left">
 
-💠 <b>Hoe start ik de test?</b> 
+💠<b>Hoe start ik de test?</b> 
 1. Python installeren op je pc (Indien je dit nog niet is geinstalleerd of Controleren of python is geinstalleerd -> 'python --version')
 2. Pip installeren "pip install" (Controleren of pip is geinstalleerd -> 'pip --version')
 3. Selenium installeren met  "pip install selenium" (Controleren of selenium is geinstalleerd -> 'pip show selenium')
@@ -13,33 +13,33 @@
 
 <br>
 
-💠 <b>Cache schoonmaken:</b> 
+💠<b>Cache schoonmaken:</b> 
 1. Open the VS Command Pallette (voor Windows gebruikers Ctrl+Shift+P)
 2. Kies of type "Python: Select Interpreter"
 3. Klik op clear cache and herlaad scherm
 
 <br>
 
-💠 <b>Zelf een test maken? </b>
+💠<b>Zelf een test maken? </b> <br>
 Wil jij nu zelf een test in elkaar zetten, maar heb je geen idee hoe je dit moet doen? 
 Bekijk dan het stappenplan via de onderstaade link: 
 https://drive.google.com/file/d/1NvL2i-VbJlRIyDMaQEtIcEgZk3J-n_qp/view?usp=drive_link
 
-<h4>Overige informatie</h4>
+<h3>Overige informatie</h3>
 <hr>
 
-💠 Wat kan je met Selenium: <br>
+💠<b>Wat kan je met Selenium:</b> <br>
 In een notendop wat je met Selenium kunt doen. Met Selenium kun je herhaalbare tests en
 efficiënte testscripts maken, waardoor de kwaliteit van webapplicaties aanzienlijk wordt
 verbeterd
 
-💠 Wat is Selenium? <br>
+💠<b>Wat is Selenium?</b> <br>
 Selenium is een open source framework dat is ontworpen om webapplicaties te testen in
 verschillende browsers en platforms. Het ondersteund een grote aantal programmeertalen, zoals
 Java, Python, C# en nog veel meer. Ik heb gekozen voor het gebruik van Python, omdat ik nog
 nooit eerder met Python had gewerkt en wilde mij graag hier meer in verdiepen. 
 
-💠 Uiteindelijke Overweging tot Selenium?
+💠<b>Uiteindelijke Overweging tot Selenium?</b>
 - Kostenposten;
 Selenium webdriver is zoals ik al eerder zei; een open source framework, dit
 houdt in dat het volledig gratis is om te testen met het selenium webdriver software.
