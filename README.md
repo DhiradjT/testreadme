@@ -1,7 +1,32 @@
-<h1 align="center">⚡HUB BASE B.V. | GEAUTOMATISEERDE TESTS | DOCUMENTATIE:⚡ </h1>
-<h3 align="center">🌱 Order4Sure page => testnsg.order4sure.nl</h3>
+<h1 align="center">⚡HUB BASE B.V. | GEAUTOMATISEERDE TESTS⚡ </h1>
+<h3 align="center">🌱 Order4Sure <==> testnsg.order4sure.nl</h3>
 
 <p align="left">
+
+💠 Hoe start ik de test? 
+1. Python installeren op je pc (Indien je dit nog niet is geinstalleerd of Controleren of python is geinstalleerd -> 'python --version')
+2. Pip installeren "pip install" (Controleren of pip is geinstalleerd -> 'pip --version')
+3. Selenium installeren met  "pip install selenium" (Controleren of selenium is geinstalleerd -> 'pip show selenium')
+4. Vervolgens ga je naar de desbetreffende map waar de test staat d.m.v. je terminal -> cd
+5. Voer deze line uit: "python testnaam.py"
+6. Hoera!! De test is gestart.
+
+<br>
+
+💠 <b>Cache schoonmaken:</b> 
+1. Open the VS Command Pallette (voor Windows gebruikers Ctrl+Shift+P)
+2. Kies of type "Python: Select Interpreter"
+3. Klik op clear cache and herlaad scherm
+
+<br>
+
+💠 Zelf een test maken? <br>
+Wil jij nu zelf een test in elkaar zetten, maar heb je geen idee hoe je dit moet doen? 
+Bekijk dan het stappenplan via de onderstaade link: 
+https://drive.google.com/file/d/1NvL2i-VbJlRIyDMaQEtIcEgZk3J-n_qp/view?usp=drive_link
+
+<b>Overige informatie</b>
+
 💠 Wat kan je met Selenium: <br>
 In een notendop wat je met Selenium kunt doen. Met Selenium kun je herhaalbare tests en
 efficiënte testscripts maken, waardoor de kwaliteit van webapplicaties aanzienlijk wordt
@@ -24,23 +49,7 @@ online en je maakt gebruik van codeertalen die vaak al bekend zijn.
 Selenium ondersteund een root aantal browsers, zoals; Chrome,
 FireFox , Edge en voor de Mac gebruikers Safari. Daarom was dit ook al snel een overweging
 
-💠 Hoe start ik de test? 
-1. Python installeren op je pc (Indien je dit nog niet is geinstalleerd of Controleren of python is geinstalleerd -> 'python --version')
-2. Pip installeren "pip install" (Controleren of pip is geinstalleerd -> 'pip --version')
-3. Selenium installeren met  "pip install selenium" (Controleren of selenium is geinstalleerd -> 'pip show selenium')
-4. Vervolgens ga je naar de desbetreffende map waar de test staat d.m.v. je terminal -> cd
-5. Voer deze line uit: "python testnaam.py"
-6. Hoera!! De test is gestart.
 
-💠 Zelf een test maken? <br>
-Wil jij nu zelf een test in elkaar zetten, maar heb je geen idee hoe je dit moet doen? 
-Bekijk dan het stappenplan via de onderstaade link: 
-https://drive.google.com/file/d/1NvL2i-VbJlRIyDMaQEtIcEgZk3J-n_qp/view?usp=drive_link
-
-💠 <b>Cache schoonmaken:</b> 
-1. Open the VS Command Pallette (voor Windows gebruikers Ctrl+Shift+P)
-2. Kies of type "Python: Select Interpreter"
-3. Klik op clear cache and herlaad scherm
 </p>
 
 <h3 align="left">Tools & Libraries:</h3>
