@@ -21,7 +21,7 @@
 <br>
 
 💠<b>Zelf een test maken? </b> </br>
-Wil jij nu zelf een test in elkaar zetten, maar heb je geen idee hoe je dit moet doen? 
+Wil jij nu zelf een test in elkaar zetten, maar heb je geen idee hoe je dit moet doen? </br>
 Bekijk dan het stappenplan via de onderstaade link: 
 https://drive.google.com/file/d/1NvL2i-VbJlRIyDMaQEtIcEgZk3J-n_qp/view?usp=drive_link
 
