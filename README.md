@@ -3,7 +3,7 @@
 
 <p align="left">
 
-💠 Hoe start ik de test? 
+💠 <b>Hoe start ik de test?</b> 
 1. Python installeren op je pc (Indien je dit nog niet is geinstalleerd of Controleren of python is geinstalleerd -> 'python --version')
 2. Pip installeren "pip install" (Controleren of pip is geinstalleerd -> 'pip --version')
 3. Selenium installeren met  "pip install selenium" (Controleren of selenium is geinstalleerd -> 'pip show selenium')
@@ -20,12 +20,13 @@
 
 <br>
 
-💠 Zelf een test maken? <br>
+💠 <b>Zelf een test maken? </b>
 Wil jij nu zelf een test in elkaar zetten, maar heb je geen idee hoe je dit moet doen? 
 Bekijk dan het stappenplan via de onderstaade link: 
 https://drive.google.com/file/d/1NvL2i-VbJlRIyDMaQEtIcEgZk3J-n_qp/view?usp=drive_link
 
-<b>Overige informatie</b>
+<h4>Overige informatie</h4>
+<hr>
 
 💠 Wat kan je met Selenium: <br>
 In een notendop wat je met Selenium kunt doen. Met Selenium kun je herhaalbare tests en
